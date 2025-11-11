@@ -1,1 +1,37 @@
-/*  your css code here. If applicable */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+}
+
+/* Main Container */
+.testimonial-section {
+  background-color: #f5f5f5;
+  padding: 40px;
+}
+
+/* Individual Testimonial Box */
+.testimonial {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+/* Testimonial Text */
+.text {
+  color: #333;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Author Name */
+.author {
+  text-align: right;
+  font-style: italic;
+  color: #555;
+  margin-top: 10px;
+}
+
